@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on **React based projects**
+- 🔭 I’m currently working on **Next.js based projects**
 
 - 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 💬 Ask me about **JavaScript, React , Node.js**
+- 💬 Ask me about **JavaScript, React , Node.js, TypeScript, Next.js**
 
 - 📫 How to reach me **maharamohit144@gmail.com**
 
